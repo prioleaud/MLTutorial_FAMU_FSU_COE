@@ -1,5 +1,5 @@
-# MLTutorial_FAMU
-This repo contain materials for a tutorial on machine learning presented by Diandra Prioleau, Kiana Alikhademi, Brianna Richardson and Emma Drobina at the one-day FAMU student visits from Human Experience Research Lab at University of Florida March 2019. 
+# MLTutorial_FAMU_FSU_COE
+This repo contain materials for a tutorial on machine learning presented by Diandra Prioleau, Kiana Alikhademi, Brianna Richardson and Emma Drobina at the one-day visit from FAMU-FSU COE students at Human Experience Research Lab at University of Florida in March 2019. 
 
 All tutorial materials will use python and jupiter notebooks. Students will be introduced to machine learning domain and do a step-by-step tutorial on well-known Iris dataset along with the presenters. Further, they will used the acquired knowledge to predic breast cancer using dataset at following link:
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
